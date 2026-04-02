@@ -72,4 +72,4 @@ The dataset contains patient-level records, including:
 ---
 
 ## Outcome
-This dashboard provides actionable insights to improve ER efficiency, reduce wait times, and enhance patient satisfaction through better staffing and resource allocation.
+This dashboard provides actionable insights to improve ER efficiency, reduce wait times and enhance patient satisfaction through better staffing and resource allocation.
